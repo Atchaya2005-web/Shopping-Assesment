@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import {} from "antd";
 import './App.css';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+    </div
   );
 }
 
